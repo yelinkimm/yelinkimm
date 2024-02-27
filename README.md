@@ -19,6 +19,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular vs React](https://dev.to/nily/angular-vs-react-58c4)
+- [Deploying a Static Site &lpar;feat.Vite, gh-pages&rpar;](https://dev.to/nily/deploying-a-static-site-featvite-gh-pages-19pb)
+- [Popper.js with Angular](https://dev.to/nily/popperjs-with-angular-3c87)
+- [Angular version upgrade v4 to v12 - part 2: performance](https://dev.to/nily/angular-version-upgrade-v4-to-v12-part-2-performance-12ib)
+- [Angular version upgrade v4 to v12 - part1](https://dev.to/nily/angular-version-upgrade-v4-to-v12-19cg)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline">
