@@ -1,5 +1,7 @@
 #### Hi there 👋 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyelinkimm%2Fhit-counter&count_bg=%2360C4E5&title_bg=%23C5BCB7&icon=&icon_color=%23E7E7E7&title=PROFILE+VISITS&edge_flat=true)](https://hits.seeyoufarm.com)
+
 - I'm a **3 year experienced front-end developer** who enjoys the journey. 
 - I value not only personal growth but also **growing together with the team**. 
 - I prioritize thoughtful consideration of the process and results of developing services, not just writing code. 
@@ -25,9 +27,5 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yelinkimm&theme=rogue&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
-
-<br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyelinkimm%2Fhit-counter&count_bg=%2360C4E5&title_bg=%23C5BCB7&icon=&icon_color=%23E7E7E7&title=PROFILE+VISITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelinkimm&show_icons=true&theme=radical&include_all_commits=true&hide=stars) -->
