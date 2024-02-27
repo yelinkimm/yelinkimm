@@ -1,4 +1,4 @@
-#### Hi there 👋 
+#### Hi there, I'm Yelin Kim 👋 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyelinkimm%2Fhit-counter&count_bg=%2360C4E5&title_bg=%23C5BCB7&icon=&icon_color=%23E7E7E7&title=PROFILE+VISITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -25,6 +25,8 @@
 - [Angular version upgrade v4 to v12 - part 2: performance](https://dev.to/nily/angular-version-upgrade-v4-to-v12-part-2-performance-12ib)
 - [Angular version upgrade v4 to v12 - part1](https://dev.to/nily/angular-version-upgrade-v4-to-v12-19cg)
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelinkimm&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=100% />
