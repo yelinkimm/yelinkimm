@@ -28,11 +28,15 @@
 
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelinkimm&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=37% />
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display:block">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelinkimm&layout=compact&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=50% />
 </a>
+
+<br/>
+<br/>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yelinkimm&theme=rogue&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=49%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yelinkimm&theme=rogue&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelinkimm&show_icons=true&theme=radical&include_all_commits=true&hide=stars) -->
