@@ -19,7 +19,7 @@
 
 # Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular vs React](https://dev.to/nily/angular-vs-react-58c4)
+- [React vs Angular](https://dev.to/nily/angular-vs-react-58c4)
 - [Deploying a Static Site &lpar;feat.Vite, gh-pages&rpar;](https://dev.to/nily/deploying-a-static-site-featvite-gh-pages-19pb)
 - [Popper.js with Framework](https://dev.to/nily/popperjs-with-angular-3c87)
 - [Angular version upgrade v4 to v12 - part 2: performance](https://dev.to/nily/angular-version-upgrade-v4-to-v12-part-2-performance-12ib)
